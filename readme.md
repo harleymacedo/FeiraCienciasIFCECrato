@@ -3,6 +3,12 @@
 <h4>Título:</h4>
 
 <h4>Equipe:</h4>
+<ol>
+    <li>Harley Macêdo(Orientador)</li>
+    <li>Flávia(Coorientadora)</li>
+    <li>Luan</li>
+    <li>Letícia</li>
+</ol>
 
 <h4>Materiais:</h4>
 
